@@ -22,15 +22,15 @@ function getJSON(url) {
 
 function getColor(pop) {
   return pop > 100000 ? '#ffffe5' :
-         pop > 23000  ? '#fff7bc' :
-         pop > 14000  ? '#fee391' :
-         pop > 8500   ? '#fec44f' :
-         pop > 6500   ? '#fe9929' :
-         pop > 5000   ? '#ec7014' :
-         pop > 4000   ? '#cc4c02' :
-         pop > 3200   ? '#993404' :
-         pop > 2500   ? '#662506' :
-                        '#331203' ;
+         pop > 23000  ? '#f7fcb9' :
+         pop > 14000  ? '#d9f0a3' :
+         pop > 8500   ? '#addd8e' :
+         pop > 6500   ? '#78c679' :
+         pop > 5000   ? '#41ab5d' :
+         pop > 4000   ? '#238443' :
+         pop > 3200   ? '#006837' :
+         pop > 2500   ? '#004529' :
+                        '#002213' ;
 }
 
 function style(feature) {
@@ -42,11 +42,11 @@ function style(feature) {
   }
   return {
     fillColor: getColor(population),
-    weight: 2,
+    weight: 1,
     opacity: 1,
     color: 'white',
     dashArray: '3',
-    fillOpacity: 0.7
+    fillOpacity: 0.4
   };
 }
 
