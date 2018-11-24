@@ -1,1318 +1,1318 @@
 [
- {
-   "id": 1470,
-   "population": 832,
-   "population_male": 435,
-   "population_female": 397,
-   "households": 405
- },
- {
-   "id": 1404,
-   "population": 1004,
-   "population_male": 462,
-   "population_female": 542,
-   "households": 434
- },
- {
-   "id": 1562,
-   "population": 1116,
-   "population_male": 542,
-   "population_female": 574,
-   "households": 501
- },
- {
-   "id": 1409,
-   "population": 1121,
-   "population_male": 566,
-   "population_female": 555,
-   "households": 534
- },
- {
-   "id": 1463,
-   "population": 1211,
-   "population_male": 604,
-   "population_female": 607,
-   "households": 704
- },
- {
-   "id": 1485,
-   "population": 1217,
-   "population_male": 578,
-   "population_female": 639,
-   "households": 537
- },
- {
-   "id": 1391,
-   "population": 1499,
-   "population_male": 734,
-   "population_female": 765,
-   "households": 661
- },
- {
-   "id": 1472,
-   "population": 1525,
-   "population_male": 754,
-   "population_female": 771,
-   "households": 690
- },
- {
-   "id": 1513,
-   "population": 1757,
-   "population_male": 869,
-   "population_female": 888,
-   "households": 775
- },
- {
-   "id": 1471,
-   "population": 1767,
-   "population_male": 938,
-   "population_female": 829,
-   "households": 897
- },
- {
-   "id": 1403,
-   "population": 1771,
-   "population_male": 888,
-   "population_female": 883,
-   "households": 886
- },
- {
-   "id": 1397,
-   "population": 1907,
-   "population_male": 951,
-   "population_female": 956,
-   "households": 915
- },
- {
-   "id": 1437,
-   "population": 1981,
-   "population_male": 938,
-   "population_female": 1043,
-   "households": 782
- },
- {
-   "id": 1431,
-   "population": 1985,
-   "population_male": 956,
-   "population_female": 1029,
-   "households": 850
- },
- {
-   "id": 1396,
-   "population": 2103,
-   "population_male": 1037,
-   "population_female": 1066,
-   "households": 855
- },
- {
-   "id": 1405,
-   "population": 2115,
-   "population_male": 1004,
-   "population_female": 1111,
-   "households": 994
- },
- {
-   "id": 1398,
-   "population": 2294,
-   "population_male": 1171,
-   "population_female": 1123,
-   "households": 1123
- },
- {
-   "id": 1518,
-   "population": 2303,
-   "population_male": 1122,
-   "population_female": 1181,
-   "households": 1154
- },
- {
-   "id": 1520,
-   "population": 2447,
-   "population_male": 1279,
-   "population_female": 1168,
-   "households": 1138
- },
- {
-   "id": 1648,
-   "population": 2482,
-   "population_male": 1253,
-   "population_female": 1229,
-   "households": 1128
- },
- {
-   "id": 1434,
-   "population": 2513,
-   "population_male": 1177,
-   "population_female": 1336,
-   "households": 1017
- },
- {
-   "id": 1667,
-   "population": 2534,
-   "population_male": 1234,
-   "population_female": 1300,
-   "households": 1026
- },
- {
-   "id": 1462,
-   "population": 2555,
-   "population_male": 1273,
-   "population_female": 1282,
-   "households": 1132
- },
- {
-   "id": 1511,
-   "population": 2684,
-   "population_male": 1282,
-   "population_female": 1402,
-   "households": 1174
- },
- {
-   "id": 1367,
-   "population": 2690,
-   "population_male": 1372,
-   "population_female": 1318,
-   "households": 1270
- },
- {
-   "id": 1560,
-   "population": 2721,
-   "population_male": 1292,
-   "population_female": 1429,
-   "households": 1295
- },
- {
-   "id": 1436,
-   "population": 2749,
-   "population_male": 1323,
-   "population_female": 1426,
-   "households": 1005
- },
- {
-   "id": 1517,
-   "population": 2773,
-   "population_male": 1398,
-   "population_female": 1375,
-   "households": 1353
- },
- {
-   "id": 1519,
-   "population": 2787,
-   "population_male": 1321,
-   "population_female": 1466,
-   "households": 1264
- },
- {
-   "id": 1486,
-   "population": 2806,
-   "population_male": 1368,
-   "population_female": 1438,
-   "households": 1225
- },
- {
-   "id": 1575,
-   "population": 2922,
-   "population_male": 1370,
-   "population_female": 1552,
-   "households": 1168
- },
- {
-   "id": 1456,
-   "population": 2976,
-   "population_male": 1393,
-   "population_female": 1583,
-   "households": 1305
- },
- {
-   "id": 1393,
-   "population": 3082,
-   "population_male": 1415,
-   "population_female": 1667,
-   "households": 1336
- },
- {
-   "id": 1433,
-   "population": 3091,
-   "population_male": 1451,
-   "population_female": 1640,
-   "households": 1269
- },
- {
-   "id": 1550,
-   "population": 3092,
-   "population_male": 1424,
-   "population_female": 1668,
-   "households": 1304
- },
- {
-   "id": 1392,
-   "population": 3137,
-   "population_male": 1528,
-   "population_female": 1609,
-   "households": 1420
- },
- {
-   "id": 1438,
-   "population": 3181,
-   "population_male": 1501,
-   "population_female": 1680,
-   "households": 1333
- },
- {
-   "id": 1645,
-   "population": 3182,
-   "population_male": 1523,
-   "population_female": 1659,
-   "households": 1362
- },
- {
-   "id": 1639,
-   "population": 3185,
-   "population_male": 1567,
-   "population_female": 1618,
-   "households": 1239
- },
- {
-   "id": 1399,
-   "population": 3187,
-   "population_male": 1553,
-   "population_female": 1634,
-   "households": 1281
- },
- {
-   "id": 1406,
-   "population": 3188,
-   "population_male": 1518,
-   "population_female": 1670,
-   "households": 1446
- },
- {
-   "id": 1465,
-   "population": 3228,
-   "population_male": 1567,
-   "population_female": 1661,
-   "households": 1330
- },
- {
-   "id": 1487,
-   "population": 3243,
-   "population_male": 1643,
-   "population_female": 1600,
-   "households": 1502
- },
- {
-   "id": 1483,
-   "population": 3265,
-   "population_male": 1549,
-   "population_female": 1716,
-   "households": 1420
- },
- {
-   "id": 1304,
-   "population": 3329,
-   "population_male": 1604,
-   "population_female": 1725,
-   "households": 1070
- },
- {
-   "id": 1482,
-   "population": 3336,
-   "population_male": 1585,
-   "population_female": 1751,
-   "households": 1406
- },
- {
-   "id": 1425,
-   "population": 3479,
-   "population_male": 1575,
-   "population_female": 1904,
-   "households": 1744
- },
- {
-   "id": 1407,
-   "population": 3498,
-   "population_male": 1625,
-   "population_female": 1873,
-   "households": 1480
- },
- {
-   "id": 1468,
-   "population": 3547,
-   "population_male": 1718,
-   "population_female": 1829,
-   "households": 1674
- },
- {
-   "id": 1227,
-   "population": 3585,
-   "population_male": 1652,
-   "population_female": 1933,
-   "households": 1665
- },
- {
-   "id": 1464,
-   "population": 3596,
-   "population_male": 1656,
-   "population_female": 1940,
-   "households": 1533
- },
- {
-   "id": 1455,
-   "population": 3777,
-   "population_male": 1787,
-   "population_female": 1990,
-   "households": 1586
- },
- {
-   "id": 1512,
-   "population": 3881,
-   "population_male": 1871,
-   "population_female": 2010,
-   "households": 1845
- },
- {
-   "id": 1364,
-   "population": 3906,
-   "population_male": 1791,
-   "population_female": 2115,
-   "households": 1729
- },
- {
-   "id": 1561,
-   "population": 3909,
-   "population_male": 1895,
-   "population_female": 2014,
-   "households": 1757
- },
- {
-   "id": 1638,
-   "population": 3966,
-   "population_male": 1932,
-   "population_female": 2034,
-   "households": 1609
- },
- {
-   "id": 1457,
-   "population": 4044,
-   "population_male": 1936,
-   "population_female": 2108,
-   "households": 2102
- },
- {
-   "id": 1363,
-   "population": 4049,
-   "population_male": 1918,
-   "population_female": 2131,
-   "households": 1765
- },
- {
-   "id": 1516,
-   "population": 4054,
-   "population_male": 2037,
-   "population_female": 2017,
-   "households": 1782
- },
- {
-   "id": 1546,
-   "population": 4221,
-   "population_male": 2049,
-   "population_female": 2172,
-   "households": 1671
- },
- {
-   "id": 1343,
-   "population": 4226,
-   "population_male": 2053,
-   "population_female": 2173,
-   "households": 1660
- },
- {
-   "id": 1571,
-   "population": 4291,
-   "population_male": 2000,
-   "population_female": 2291,
-   "households": 1973
- },
- {
-   "id": 1332,
-   "population": 4422,
-   "population_male": 2047,
-   "population_female": 2375,
-   "households": 2039
- },
- {
-   "id": 1481,
-   "population": 4497,
-   "population_male": 2024,
-   "population_female": 2473,
-   "households": 2051
- },
- {
-   "id": 1608,
-   "population": 4518,
-   "population_male": 2139,
-   "population_female": 2379,
-   "households": 2044
- },
- {
-   "id": 1563,
-   "population": 4525,
-   "population_male": 2136,
-   "population_female": 2389,
-   "households": 2062
- },
- {
-   "id": 1334,
-   "population": 4547,
-   "population_male": 2150,
-   "population_female": 2397,
-   "households": 2140
- },
- {
-   "id": 1430,
-   "population": 4577,
-   "population_male": 2841,
-   "population_female": 1736,
-   "households": 1466
- },
- {
-   "id": 1333,
-   "population": 4653,
-   "population_male": 2306,
-   "population_female": 2347,
-   "households": 2003
- },
- {
-   "id": 1469,
-   "population": 4659,
-   "population_male": 2287,
-   "population_female": 2372,
-   "households": 2041
- },
- {
-   "id": 1633,
-   "population": 4765,
-   "population_male": 2300,
-   "population_female": 2465,
-   "households": 2177
- },
- {
-   "id": 1581,
-   "population": 4838,
-   "population_male": 2482,
-   "population_female": 2356,
-   "households": 2126
- },
- {
-   "id": 1394,
-   "population": 4843,
-   "population_male": 2322,
-   "population_female": 2521,
-   "households": 2086
- },
- {
-   "id": 1362,
-   "population": 4876,
-   "population_male": 2193,
-   "population_female": 2683,
-   "households": 2173
- },
- {
-   "id": 1609,
-   "population": 4906,
-   "population_male": 2449,
-   "population_female": 2457,
-   "households": 1929
- },
- {
-   "id": 1649,
-   "population": 4919,
-   "population_male": 2361,
-   "population_female": 2558,
-   "households": 2086
- },
- {
-   "id": 1395,
-   "population": 4958,
-   "population_male": 2512,
-   "population_female": 2446,
-   "households": 2274
- },
- {
-   "id": 1544,
-   "population": 5008,
-   "population_male": 2427,
-   "population_female": 2581,
-   "households": 2231
- },
- {
-   "id": 1461,
-   "population": 5069,
-   "population_male": 2405,
-   "population_female": 2664,
-   "households": 2025
- },
- {
-   "id": 1547,
-   "population": 5085,
-   "population_male": 2414,
-   "population_female": 2671,
-   "households": 2033
- },
- {
-   "id": 1549,
-   "population": 5100,
-   "population_male": 2412,
-   "population_female": 2688,
-   "households": 1910
- },
- {
-   "id": 1693,
-   "population": 5242,
-   "population_male": 2565,
-   "population_female": 2677,
-   "households": 2169
- },
- {
-   "id": 1427,
-   "population": 5314,
-   "population_male": 2536,
-   "population_female": 2778,
-   "households": 2149
- },
- {
-   "id": 1602,
-   "population": 5315,
-   "population_male": 2630,
-   "population_female": 2685,
-   "households": 2373
- },
- {
-   "id": 1552,
-   "population": 5362,
-   "population_male": 2498,
-   "population_female": 2864,
-   "households": 2311
- },
- {
-   "id": 1694,
-   "population": 5415,
-   "population_male": 2697,
-   "population_female": 2718,
-   "households": 2101
- },
- {
-   "id": 1634,
-   "population": 5542,
-   "population_male": 2718,
-   "population_female": 2824,
-   "households": 2258
- },
- {
-   "id": 1604,
-   "population": 5592,
-   "population_male": 2717,
-   "population_female": 2875,
-   "households": 2405
- },
- {
-   "id": 1370,
-   "population": 5628,
-   "population_male": 2680,
-   "population_female": 2948,
-   "households": 2280
- },
- {
-   "id": 1424,
-   "population": 5674,
-   "population_male": 2659,
-   "population_female": 3015,
-   "households": 2466
- },
- {
-   "id": 1641,
-   "population": 5738,
-   "population_male": 2810,
-   "population_female": 2928,
-   "households": 2534
- },
- {
-   "id": 1347,
-   "population": 5926,
-   "population_male": 2869,
-   "population_female": 3057,
-   "households": 2685
- },
- {
-   "id": 1663,
-   "population": 6061,
-   "population_male": 2954,
-   "population_female": 3107,
-   "households": 2325
- },
- {
-   "id": 1632,
-   "population": 6132,
-   "population_male": 2939,
-   "population_female": 3193,
-   "households": 2479
- },
- {
-   "id": 1401,
-   "population": 6224,
-   "population_male": 3243,
-   "population_female": 2981,
-   "households": 2854
- },
- {
-   "id": 1635,
-   "population": 6288,
-   "population_male": 3123,
-   "population_female": 3165,
-   "households": 3043
- },
- {
-   "id": 1454,
-   "population": 6689,
-   "population_male": 3076,
-   "population_female": 3613,
-   "households": 2698
- },
- {
-   "id": 1432,
-   "population": 6831,
-   "population_male": 3096,
-   "population_female": 3735,
-   "households": 2570
- },
- {
-   "id": 1644,
-   "population": 6882,
-   "population_male": 3253,
-   "population_female": 3629,
-   "households": 3044
- },
- {
-   "id": 1647,
-   "population": 6990,
-   "population_male": 3380,
-   "population_female": 3610,
-   "households": 3179
- },
- {
-   "id": 1452,
-   "population": 7018,
-   "population_male": 3309,
-   "population_female": 3709,
-   "households": 2717
- },
- {
-   "id": 1642,
-   "population": 7030,
-   "population_male": 3357,
-   "population_female": 3673,
-   "households": 3157
- },
- {
-   "id": 1484,
-   "population": 7327,
-   "population_male": 3490,
-   "population_female": 3837,
-   "households": 3367
- },
- {
-   "id": 1331,
-   "population": 7337,
-   "population_male": 3283,
-   "population_female": 4054,
-   "households": 3571
- },
- {
-   "id": 1646,
-   "population": 7358,
-   "population_male": 3615,
-   "population_female": 3743,
-   "households": 3260
- },
- {
-   "id": 1564,
-   "population": 7360,
-   "population_male": 3552,
-   "population_female": 3808,
-   "households": 2874
- },
- {
-   "id": 1664,
-   "population": 7742,
-   "population_male": 3717,
-   "population_female": 4025,
-   "households": 3281
- },
- {
-   "id": 1665,
-   "population": 7758,
-   "population_male": 3679,
-   "population_female": 4079,
-   "households": 3509
- },
- {
-   "id": 1423,
-   "population": 7927,
-   "population_male": 3739,
-   "population_female": 4188,
-   "households": 2973
- },
- {
-   "id": 1668,
-   "population": 8068,
-   "population_male": 3752,
-   "population_female": 4316,
-   "households": 3609
- },
- {
-   "id": 1458,
-   "population": 8111,
-   "population_male": 3719,
-   "population_female": 4392,
-   "households": 3148
- },
- {
-   "id": 1585,
-   "population": 8148,
-   "population_male": 4049,
-   "population_female": 4099,
-   "households": 3651
- },
- {
-   "id": 1361,
-   "population": 8248,
-   "population_male": 3910,
-   "population_female": 4338,
-   "households": 3752
- },
- {
-   "id": 1514,
-   "population": 8437,
-   "population_male": 3983,
-   "population_female": 4454,
-   "households": 3772
- },
- {
-   "id": 1371,
-   "population": 8473,
-   "population_male": 3952,
-   "population_female": 4521,
-   "households": 3862
- },
- {
-   "id": 1586,
-   "population": 8596,
-   "population_male": 4211,
-   "population_female": 4385,
-   "households": 3784
- },
- {
-   "id": 1209,
-   "population": 8843,
-   "population_male": 4092,
-   "population_female": 4751,
-   "households": 4539
- },
- {
-   "id": 1222,
-   "population": 9076,
-   "population_male": 4075,
-   "population_female": 5001,
-   "households": 4254
- },
- {
-   "id": 1559,
-   "population": 9231,
-   "population_male": 4378,
-   "population_female": 4853,
-   "households": 3861
- },
- {
-   "id": 1584,
-   "population": 9299,
-   "population_male": 4280,
-   "population_female": 5019,
-   "households": 4240
- },
- {
-   "id": 1636,
-   "population": 9599,
-   "population_male": 4683,
-   "population_female": 4916,
-   "households": 4131
- },
- {
-   "id": 1662,
-   "population": 9778,
-   "population_male": 4628,
-   "population_female": 5150,
-   "households": 4115
- },
- {
-   "id": 1453,
-   "population": 10233,
-   "population_male": 4772,
-   "population_female": 5461,
-   "households": 3657
- },
- {
-   "id": 1459,
-   "population": 10292,
-   "population_male": 4826,
-   "population_female": 5466,
-   "households": 4288
- },
- {
-   "id": 1460,
-   "population": 10826,
-   "population_male": 5442,
-   "population_female": 5384,
-   "households": 4363
- },
- {
-   "id": 1428,
-   "population": 11076,
-   "population_male": 5293,
-   "population_female": 5783,
-   "households": 4257
- },
- {
-   "id": 1218,
-   "population": 11105,
-   "population_male": 5025,
-   "population_female": 6080,
-   "households": 4980
- },
- {
-   "id": 1545,
-   "population": 12231,
-   "population_male": 6113,
-   "population_female": 6118,
-   "households": 5547
- },
- {
-   "id": 1429,
-   "population": 12344,
-   "population_male": 5740,
-   "population_female": 6604,
-   "households": 5186
- },
- {
-   "id": 1601,
-   "population": 12378,
-   "population_male": 6174,
-   "population_female": 6204,
-   "households": 5781
- },
- {
-   "id": 1402,
-   "population": 13042,
-   "population_male": 6174,
-   "population_female": 6868,
-   "households": 6228
- },
- {
-   "id": 1607,
-   "population": 13075,
-   "population_male": 6368,
-   "population_female": 6707,
-   "households": 6178
- },
- {
-   "id": 1216,
-   "population": 14676,
-   "population_male": 6667,
-   "population_female": 8009,
-   "households": 6862
- },
- {
-   "id": 1400,
-   "population": 15018,
-   "population_male": 7538,
-   "population_female": 7480,
-   "households": 6974
- },
- {
-   "id": 1691,
-   "population": 15273,
-   "population_male": 7687,
-   "population_female": 7586,
-   "households": 5997
- },
- {
-   "id": 1345,
-   "population": 15946,
-   "population_male": 7324,
-   "population_female": 8622,
-   "households": 6628
- },
- {
-   "id": 1346,
-   "population": 17252,
-   "population_male": 8401,
-   "population_female": 8851,
-   "households": 7523
- },
- {
-   "id": 1303,
-   "population": 17278,
-   "population_male": 8314,
-   "population_female": 8964,
-   "households": 7327
- },
- {
-   "id": 1226,
-   "population": 17694,
-   "population_male": 8216,
-   "population_female": 9478,
-   "households": 7858
- },
- {
-   "id": 1578,
-   "population": 17740,
-   "population_male": 8489,
-   "population_female": 9251,
-   "households": 7955
- },
- {
-   "id": 1637,
-   "population": 18484,
-   "population_male": 8773,
-   "population_female": 9711,
-   "households": 7169
- },
- {
-   "id": 1408,
-   "population": 19607,
-   "population_male": 9063,
-   "population_female": 10544,
-   "households": 8769
- },
- {
-   "id": 1661,
-   "population": 19833,
-   "population_male": 9373,
-   "population_female": 10460,
-   "households": 8119
- },
- {
-   "id": 1220,
-   "population": 19914,
-   "population_male": 9382,
-   "population_female": 10532,
-   "households": 8650
- },
- {
-   "id": 1543,
-   "population": 20296,
-   "population_male": 9763,
-   "population_female": 10533,
-   "households": 8626
- },
- {
-   "id": 1555,
-   "population": 20873,
-   "population_male": 10081,
-   "population_female": 10792,
-   "households": 9278
- },
- {
-   "id": 1228,
-   "population": 21909,
-   "population_male": 10118,
-   "population_female": 11791,
-   "households": 9669
- },
- {
-   "id": 1212,
-   "population": 22221,
-   "population_male": 10516,
-   "population_female": 11705,
-   "households": 10402
- },
- {
-   "id": 1229,
-   "population": 22936,
-   "population_male": 10783,
-   "population_female": 12153,
-   "households": 9929
- },
- {
-   "id": 1215,
-   "population": 23035,
-   "population_male": 10753,
-   "population_female": 12282,
-   "households": 10173
- },
- {
-   "id": 1219,
-   "population": 23109,
-   "population_male": 10954,
-   "population_female": 12155,
-   "households": 11127
- },
- {
-   "id": 1610,
-   "population": 23231,
-   "population_male": 11188,
-   "population_female": 12043,
-   "households": 10443
- },
- {
-   "id": 1692,
-   "population": 23774,
-   "population_male": 11628,
-   "population_female": 12146,
-   "households": 10437
- },
- {
-   "id": 1643,
-   "population": 26760,
-   "population_male": 12627,
-   "population_female": 14133,
-   "households": 10944
- },
- {
-   "id": 1223,
-   "population": 26917,
-   "population_male": 12862,
-   "population_female": 14055,
-   "households": 11383
- },
- {
-   "id": 1337,
-   "population": 28120,
-   "population_male": 12820,
-   "population_female": 15300,
-   "households": 11141
- },
- {
-   "id": 1221,
-   "population": 29048,
-   "population_male": 14072,
-   "population_female": 14976,
-   "households": 13086
- },
- {
-   "id": 1233,
-   "population": 34995,
-   "population_male": 16279,
-   "population_female": 18716,
-   "households": 15054
- },
- {
-   "id": 1214,
-   "population": 36380,
-   "population_male": 17809,
-   "population_female": 18571,
-   "households": 16486
- },
- {
-   "id": 1211,
-   "population": 39077,
-   "population_male": 19819,
-   "population_female": 19258,
-   "households": 18035
- },
- {
-   "id": 1225,
-   "population": 41192,
-   "population_male": 19475,
-   "population_female": 21717,
-   "households": 18651
- },
- {
-   "id": 1631,
-   "population": 44807,
-   "population_male": 21080,
-   "population_female": 23727,
-   "households": 18019
- },
- {
-   "id": 1236,
-   "population": 46390,
-   "population_male": 21641,
-   "population_female": 24749,
-   "households": 18508
- },
- {
-   "id": 1230,
-   "population": 49625,
-   "population_male": 23533,
-   "population_female": 26092,
-   "households": 21681
- },
- {
-   "id": 1235,
-   "population": 57436,
-   "population_male": 27548,
-   "population_female": 29888,
-   "households": 22632
- },
- {
-   "id": 1234,
-   "population": 59064,
-   "population_male": 28273,
-   "population_female": 30791,
-   "households": 23551
- },
- {
-   "id": 1231,
-   "population": 69702,
-   "population_male": 33781,
-   "population_female": 35921,
-   "households": 28846
- },
- {
-   "id": 1210,
-   "population": 84499,
-   "population_male": 39319,
-   "population_female": 45180,
-   "households": 36155
- },
- {
-   "id": 1205,
-   "population": 88564,
-   "population_male": 43143,
-   "population_female": 45421,
-   "households": 43616
- },
- {
-   "id": 1224,
-   "population": 95648,
-   "population_male": 48588,
-   "population_female": 47060,
-   "households": 40638
- },
- {
-   "id": 1110,
-   "population": 115726,
-   "population_male": 54624,
-   "population_female": 61102,
-   "households": 45006
- },
- {
-   "id": 1217,
-   "population": 120636,
-   "population_male": 57391,
-   "population_female": 63245,
-   "households": 51983
- },
- {
-   "id": 1208,
-   "population": 121226,
-   "population_male": 58020,
-   "population_female": 63206,
-   "households": 56202
- },
- {
-   "id": 1203,
-   "population": 121924,
-   "population_male": 54985,
-   "population_female": 66939,
-   "households": 55466
- },
- {
-   "id": 1108,
-   "population": 127767,
-   "population_male": 58312,
-   "population_female": 69455,
-   "households": 55585
- },
- {
-   "id": 1109,
-   "population": 140999,
-   "population_male": 66284,
-   "population_female": 74715,
-   "households": 57333
- },
- {
-   "id": 1106,
-   "population": 141190,
-   "population_male": 65305,
-   "population_female": 75885,
-   "households": 61291
- },
- {
-   "id": 1207,
-   "population": 169327,
-   "population_male": 80994,
-   "population_female": 88333,
-   "households": 77707
- },
- {
-   "id": 1213,
-   "population": 172737,
-   "population_male": 84605,
-   "population_female": 88132,
-   "households": 78298
- },
- {
-   "id": 1206,
-   "population": 174742,
-   "population_male": 82185,
-   "population_female": 92557,
-   "households": 82078
- },
- {
-   "id": 1104,
-   "population": 209584,
-   "population_male": 99020,
-   "population_female": 110564,
-   "households": 104608
- },
- {
-   "id": 1107,
-   "population": 213578,
-   "population_male": 98648,
-   "population_female": 114930,
-   "households": 97750
- },
- {
-   "id": 1105,
-   "population": 218652,
-   "population_male": 101482,
-   "population_female": 117170,
-   "households": 110171
- },
- {
-   "id": 1101,
-   "population": 237627,
-   "population_male": 107756,
-   "population_female": 129871,
-   "households": 132006
- },
- {
-   "id": 1103,
-   "population": 261912,
-   "population_male": 124649,
-   "population_female": 137263,
-   "households": 124425
- },
- {
-   "id": 1202,
-   "population": 265979,
-   "population_male": 120376,
-   "population_female": 145603,
-   "households": 123950
- },
- {
-   "id": 1102,
-   "population": 285321,
-   "population_male": 134534,
-   "population_female": 150787,
-   "households": 133662
- },
- {
-   "id": 1204,
-   "population": 339605,
-   "population_male": 156402,
-   "population_female": 183203,
-   "households": 155747
- }
+  {
+    "id": "01470",
+    "population": 832,
+    "population_male": 435,
+    "population_female": 397,
+    "households": 405
+  },
+  {
+    "id": "01404",
+    "population": 1004,
+    "population_male": 462,
+    "population_female": 542,
+    "households": 434
+  },
+  {
+    "id": "01562",
+    "population": 1116,
+    "population_male": 542,
+    "population_female": 574,
+    "households": 501
+  },
+  {
+    "id": "01409",
+    "population": 1121,
+    "population_male": 566,
+    "population_female": 555,
+    "households": 534
+  },
+  {
+    "id": "01463",
+    "population": 1211,
+    "population_male": 604,
+    "population_female": 607,
+    "households": 704
+  },
+  {
+    "id": "01485",
+    "population": 1217,
+    "population_male": 578,
+    "population_female": 639,
+    "households": 537
+  },
+  {
+    "id": "01391",
+    "population": 1499,
+    "population_male": 734,
+    "population_female": 765,
+    "households": 661
+  },
+  {
+    "id": "01472",
+    "population": 1525,
+    "population_male": 754,
+    "population_female": 771,
+    "households": 690
+  },
+  {
+    "id": "01513",
+    "population": 1757,
+    "population_male": 869,
+    "population_female": 888,
+    "households": 775
+  },
+  {
+    "id": "01471",
+    "population": 1767,
+    "population_male": 938,
+    "population_female": 829,
+    "households": 897
+  },
+  {
+    "id": "01403",
+    "population": 1771,
+    "population_male": 888,
+    "population_female": 883,
+    "households": 886
+  },
+  {
+    "id": "01397",
+    "population": 1907,
+    "population_male": 951,
+    "population_female": 956,
+    "households": 915
+  },
+  {
+    "id": "01437",
+    "population": 1981,
+    "population_male": 938,
+    "population_female": 1043,
+    "households": 782
+  },
+  {
+    "id": "01431",
+    "population": 1985,
+    "population_male": 956,
+    "population_female": 1029,
+    "households": 850
+  },
+  {
+    "id": "01396",
+    "population": 2103,
+    "population_male": 1037,
+    "population_female": 1066,
+    "households": 855
+  },
+  {
+    "id": "01405",
+    "population": 2115,
+    "population_male": 1004,
+    "population_female": 1111,
+    "households": 994
+  },
+  {
+    "id": "01398",
+    "population": 2294,
+    "population_male": 1171,
+    "population_female": 1123,
+    "households": 1123
+  },
+  {
+    "id": "01518",
+    "population": 2303,
+    "population_male": 1122,
+    "population_female": 1181,
+    "households": 1154
+  },
+  {
+    "id": "01520",
+    "population": 2447,
+    "population_male": 1279,
+    "population_female": 1168,
+    "households": 1138
+  },
+  {
+    "id": "01648",
+    "population": 2482,
+    "population_male": 1253,
+    "population_female": 1229,
+    "households": 1128
+  },
+  {
+    "id": "01434",
+    "population": 2513,
+    "population_male": 1177,
+    "population_female": 1336,
+    "households": 1017
+  },
+  {
+    "id": "01667",
+    "population": 2534,
+    "population_male": 1234,
+    "population_female": 1300,
+    "households": 1026
+  },
+  {
+    "id": "01462",
+    "population": 2555,
+    "population_male": 1273,
+    "population_female": 1282,
+    "households": 1132
+  },
+  {
+    "id": "01511",
+    "population": 2684,
+    "population_male": 1282,
+    "population_female": 1402,
+    "households": 1174
+  },
+  {
+    "id": "01367",
+    "population": 2690,
+    "population_male": 1372,
+    "population_female": 1318,
+    "households": 1270
+  },
+  {
+    "id": "01560",
+    "population": 2721,
+    "population_male": 1292,
+    "population_female": 1429,
+    "households": 1295
+  },
+  {
+    "id": "01436",
+    "population": 2749,
+    "population_male": 1323,
+    "population_female": 1426,
+    "households": 1005
+  },
+  {
+    "id": "01517",
+    "population": 2773,
+    "population_male": 1398,
+    "population_female": 1375,
+    "households": 1353
+  },
+  {
+    "id": "01519",
+    "population": 2787,
+    "population_male": 1321,
+    "population_female": 1466,
+    "households": 1264
+  },
+  {
+    "id": "01486",
+    "population": 2806,
+    "population_male": 1368,
+    "population_female": 1438,
+    "households": 1225
+  },
+  {
+    "id": "01575",
+    "population": 2922,
+    "population_male": 1370,
+    "population_female": 1552,
+    "households": 1168
+  },
+  {
+    "id": "01456",
+    "population": 2976,
+    "population_male": 1393,
+    "population_female": 1583,
+    "households": 1305
+  },
+  {
+    "id": "01393",
+    "population": 3082,
+    "population_male": 1415,
+    "population_female": 1667,
+    "households": 1336
+  },
+  {
+    "id": "01433",
+    "population": 3091,
+    "population_male": 1451,
+    "population_female": 1640,
+    "households": 1269
+  },
+  {
+    "id": "01550",
+    "population": 3092,
+    "population_male": 1424,
+    "population_female": 1668,
+    "households": 1304
+  },
+  {
+    "id": "01392",
+    "population": 3137,
+    "population_male": 1528,
+    "population_female": 1609,
+    "households": 1420
+  },
+  {
+    "id": "01438",
+    "population": 3181,
+    "population_male": 1501,
+    "population_female": 1680,
+    "households": 1333
+  },
+  {
+    "id": "01645",
+    "population": 3182,
+    "population_male": 1523,
+    "population_female": 1659,
+    "households": 1362
+  },
+  {
+    "id": "01639",
+    "population": 3185,
+    "population_male": 1567,
+    "population_female": 1618,
+    "households": 1239
+  },
+  {
+    "id": "01399",
+    "population": 3187,
+    "population_male": 1553,
+    "population_female": 1634,
+    "households": 1281
+  },
+  {
+    "id": "01406",
+    "population": 3188,
+    "population_male": 1518,
+    "population_female": 1670,
+    "households": 1446
+  },
+  {
+    "id": "01465",
+    "population": 3228,
+    "population_male": 1567,
+    "population_female": 1661,
+    "households": 1330
+  },
+  {
+    "id": "01487",
+    "population": 3243,
+    "population_male": 1643,
+    "population_female": 1600,
+    "households": 1502
+  },
+  {
+    "id": "01483",
+    "population": 3265,
+    "population_male": 1549,
+    "population_female": 1716,
+    "households": 1420
+  },
+  {
+    "id": "01304",
+    "population": 3329,
+    "population_male": 1604,
+    "population_female": 1725,
+    "households": 1070
+  },
+  {
+    "id": "01482",
+    "population": 3336,
+    "population_male": 1585,
+    "population_female": 1751,
+    "households": 1406
+  },
+  {
+    "id": "01425",
+    "population": 3479,
+    "population_male": 1575,
+    "population_female": 1904,
+    "households": 1744
+  },
+  {
+    "id": "01407",
+    "population": 3498,
+    "population_male": 1625,
+    "population_female": 1873,
+    "households": 1480
+  },
+  {
+    "id": "01468",
+    "population": 3547,
+    "population_male": 1718,
+    "population_female": 1829,
+    "households": 1674
+  },
+  {
+    "id": "01227",
+    "population": 3585,
+    "population_male": 1652,
+    "population_female": 1933,
+    "households": 1665
+  },
+  {
+    "id": "01464",
+    "population": 3596,
+    "population_male": 1656,
+    "population_female": 1940,
+    "households": 1533
+  },
+  {
+    "id": "01455",
+    "population": 3777,
+    "population_male": 1787,
+    "population_female": 1990,
+    "households": 1586
+  },
+  {
+    "id": "01512",
+    "population": 3881,
+    "population_male": 1871,
+    "population_female": 2010,
+    "households": 1845
+  },
+  {
+    "id": "01364",
+    "population": 3906,
+    "population_male": 1791,
+    "population_female": 2115,
+    "households": 1729
+  },
+  {
+    "id": "01561",
+    "population": 3909,
+    "population_male": 1895,
+    "population_female": 2014,
+    "households": 1757
+  },
+  {
+    "id": "01638",
+    "population": 3966,
+    "population_male": 1932,
+    "population_female": 2034,
+    "households": 1609
+  },
+  {
+    "id": "01457",
+    "population": 4044,
+    "population_male": 1936,
+    "population_female": 2108,
+    "households": 2102
+  },
+  {
+    "id": "01363",
+    "population": 4049,
+    "population_male": 1918,
+    "population_female": 2131,
+    "households": 1765
+  },
+  {
+    "id": "01516",
+    "population": 4054,
+    "population_male": 2037,
+    "population_female": 2017,
+    "households": 1782
+  },
+  {
+    "id": "01546",
+    "population": 4221,
+    "population_male": 2049,
+    "population_female": 2172,
+    "households": 1671
+  },
+  {
+    "id": "01343",
+    "population": 4226,
+    "population_male": 2053,
+    "population_female": 2173,
+    "households": 1660
+  },
+  {
+    "id": "01571",
+    "population": 4291,
+    "population_male": 2000,
+    "population_female": 2291,
+    "households": 1973
+  },
+  {
+    "id": "01332",
+    "population": 4422,
+    "population_male": 2047,
+    "population_female": 2375,
+    "households": 2039
+  },
+  {
+    "id": "01481",
+    "population": 4497,
+    "population_male": 2024,
+    "population_female": 2473,
+    "households": 2051
+  },
+  {
+    "id": "01608",
+    "population": 4518,
+    "population_male": 2139,
+    "population_female": 2379,
+    "households": 2044
+  },
+  {
+    "id": "01563",
+    "population": 4525,
+    "population_male": 2136,
+    "population_female": 2389,
+    "households": 2062
+  },
+  {
+    "id": "01334",
+    "population": 4547,
+    "population_male": 2150,
+    "population_female": 2397,
+    "households": 2140
+  },
+  {
+    "id": "01430",
+    "population": 4577,
+    "population_male": 2841,
+    "population_female": 1736,
+    "households": 1466
+  },
+  {
+    "id": "01333",
+    "population": 4653,
+    "population_male": 2306,
+    "population_female": 2347,
+    "households": 2003
+  },
+  {
+    "id": "01469",
+    "population": 4659,
+    "population_male": 2287,
+    "population_female": 2372,
+    "households": 2041
+  },
+  {
+    "id": "01633",
+    "population": 4765,
+    "population_male": 2300,
+    "population_female": 2465,
+    "households": 2177
+  },
+  {
+    "id": "01581",
+    "population": 4838,
+    "population_male": 2482,
+    "population_female": 2356,
+    "households": 2126
+  },
+  {
+    "id": "01394",
+    "population": 4843,
+    "population_male": 2322,
+    "population_female": 2521,
+    "households": 2086
+  },
+  {
+    "id": "01362",
+    "population": 4876,
+    "population_male": 2193,
+    "population_female": 2683,
+    "households": 2173
+  },
+  {
+    "id": "01609",
+    "population": 4906,
+    "population_male": 2449,
+    "population_female": 2457,
+    "households": 1929
+  },
+  {
+    "id": "01649",
+    "population": 4919,
+    "population_male": 2361,
+    "population_female": 2558,
+    "households": 2086
+  },
+  {
+    "id": "01395",
+    "population": 4958,
+    "population_male": 2512,
+    "population_female": 2446,
+    "households": 2274
+  },
+  {
+    "id": "01544",
+    "population": 5008,
+    "population_male": 2427,
+    "population_female": 2581,
+    "households": 2231
+  },
+  {
+    "id": "01461",
+    "population": 5069,
+    "population_male": 2405,
+    "population_female": 2664,
+    "households": 2025
+  },
+  {
+    "id": "01547",
+    "population": 5085,
+    "population_male": 2414,
+    "population_female": 2671,
+    "households": 2033
+  },
+  {
+    "id": "01549",
+    "population": 5100,
+    "population_male": 2412,
+    "population_female": 2688,
+    "households": 1910
+  },
+  {
+    "id": "01693",
+    "population": 5242,
+    "population_male": 2565,
+    "population_female": 2677,
+    "households": 2169
+  },
+  {
+    "id": "01427",
+    "population": 5314,
+    "population_male": 2536,
+    "population_female": 2778,
+    "households": 2149
+  },
+  {
+    "id": "01602",
+    "population": 5315,
+    "population_male": 2630,
+    "population_female": 2685,
+    "households": 2373
+  },
+  {
+    "id": "01552",
+    "population": 5362,
+    "population_male": 2498,
+    "population_female": 2864,
+    "households": 2311
+  },
+  {
+    "id": "01694",
+    "population": 5415,
+    "population_male": 2697,
+    "population_female": 2718,
+    "households": 2101
+  },
+  {
+    "id": "01634",
+    "population": 5542,
+    "population_male": 2718,
+    "population_female": 2824,
+    "households": 2258
+  },
+  {
+    "id": "01604",
+    "population": 5592,
+    "population_male": 2717,
+    "population_female": 2875,
+    "households": 2405
+  },
+  {
+    "id": "01370",
+    "population": 5628,
+    "population_male": 2680,
+    "population_female": 2948,
+    "households": 2280
+  },
+  {
+    "id": "01424",
+    "population": 5674,
+    "population_male": 2659,
+    "population_female": 3015,
+    "households": 2466
+  },
+  {
+    "id": "01641",
+    "population": 5738,
+    "population_male": 2810,
+    "population_female": 2928,
+    "households": 2534
+  },
+  {
+    "id": "01347",
+    "population": 5926,
+    "population_male": 2869,
+    "population_female": 3057,
+    "households": 2685
+  },
+  {
+    "id": "01663",
+    "population": 6061,
+    "population_male": 2954,
+    "population_female": 3107,
+    "households": 2325
+  },
+  {
+    "id": "01632",
+    "population": 6132,
+    "population_male": 2939,
+    "population_female": 3193,
+    "households": 2479
+  },
+  {
+    "id": "01401",
+    "population": 6224,
+    "population_male": 3243,
+    "population_female": 2981,
+    "households": 2854
+  },
+  {
+    "id": "01635",
+    "population": 6288,
+    "population_male": 3123,
+    "population_female": 3165,
+    "households": 3043
+  },
+  {
+    "id": "01454",
+    "population": 6689,
+    "population_male": 3076,
+    "population_female": 3613,
+    "households": 2698
+  },
+  {
+    "id": "01432",
+    "population": 6831,
+    "population_male": 3096,
+    "population_female": 3735,
+    "households": 2570
+  },
+  {
+    "id": "01644",
+    "population": 6882,
+    "population_male": 3253,
+    "population_female": 3629,
+    "households": 3044
+  },
+  {
+    "id": "01647",
+    "population": 6990,
+    "population_male": 3380,
+    "population_female": 3610,
+    "households": 3179
+  },
+  {
+    "id": "01452",
+    "population": 7018,
+    "population_male": 3309,
+    "population_female": 3709,
+    "households": 2717
+  },
+  {
+    "id": "01642",
+    "population": 7030,
+    "population_male": 3357,
+    "population_female": 3673,
+    "households": 3157
+  },
+  {
+    "id": "01484",
+    "population": 7327,
+    "population_male": 3490,
+    "population_female": 3837,
+    "households": 3367
+  },
+  {
+    "id": "01331",
+    "population": 7337,
+    "population_male": 3283,
+    "population_female": 4054,
+    "households": 3571
+  },
+  {
+    "id": "01646",
+    "population": 7358,
+    "population_male": 3615,
+    "population_female": 3743,
+    "households": 3260
+  },
+  {
+    "id": "01564",
+    "population": 7360,
+    "population_male": 3552,
+    "population_female": 3808,
+    "households": 2874
+  },
+  {
+    "id": "01664",
+    "population": 7742,
+    "population_male": 3717,
+    "population_female": 4025,
+    "households": 3281
+  },
+  {
+    "id": "01665",
+    "population": 7758,
+    "population_male": 3679,
+    "population_female": 4079,
+    "households": 3509
+  },
+  {
+    "id": "01423",
+    "population": 7927,
+    "population_male": 3739,
+    "population_female": 4188,
+    "households": 2973
+  },
+  {
+    "id": "01668",
+    "population": 8068,
+    "population_male": 3752,
+    "population_female": 4316,
+    "households": 3609
+  },
+  {
+    "id": "01458",
+    "population": 8111,
+    "population_male": 3719,
+    "population_female": 4392,
+    "households": 3148
+  },
+  {
+    "id": "01585",
+    "population": 8148,
+    "population_male": 4049,
+    "population_female": 4099,
+    "households": 3651
+  },
+  {
+    "id": "01361",
+    "population": 8248,
+    "population_male": 3910,
+    "population_female": 4338,
+    "households": 3752
+  },
+  {
+    "id": "01514",
+    "population": 8437,
+    "population_male": 3983,
+    "population_female": 4454,
+    "households": 3772
+  },
+  {
+    "id": "01371",
+    "population": 8473,
+    "population_male": 3952,
+    "population_female": 4521,
+    "households": 3862
+  },
+  {
+    "id": "01586",
+    "population": 8596,
+    "population_male": 4211,
+    "population_female": 4385,
+    "households": 3784
+  },
+  {
+    "id": "01209",
+    "population": 8843,
+    "population_male": 4092,
+    "population_female": 4751,
+    "households": 4539
+  },
+  {
+    "id": "01222",
+    "population": 9076,
+    "population_male": 4075,
+    "population_female": 5001,
+    "households": 4254
+  },
+  {
+    "id": "01559",
+    "population": 9231,
+    "population_male": 4378,
+    "population_female": 4853,
+    "households": 3861
+  },
+  {
+    "id": "01584",
+    "population": 9299,
+    "population_male": 4280,
+    "population_female": 5019,
+    "households": 4240
+  },
+  {
+    "id": "01636",
+    "population": 9599,
+    "population_male": 4683,
+    "population_female": 4916,
+    "households": 4131
+  },
+  {
+    "id": "01662",
+    "population": 9778,
+    "population_male": 4628,
+    "population_female": 5150,
+    "households": 4115
+  },
+  {
+    "id": "01453",
+    "population": 10233,
+    "population_male": 4772,
+    "population_female": 5461,
+    "households": 3657
+  },
+  {
+    "id": "01459",
+    "population": 10292,
+    "population_male": 4826,
+    "population_female": 5466,
+    "households": 4288
+  },
+  {
+    "id": "01460",
+    "population": 10826,
+    "population_male": 5442,
+    "population_female": 5384,
+    "households": 4363
+  },
+  {
+    "id": "01428",
+    "population": 11076,
+    "population_male": 5293,
+    "population_female": 5783,
+    "households": 4257
+  },
+  {
+    "id": "01218",
+    "population": 11105,
+    "population_male": 5025,
+    "population_female": 6080,
+    "households": 4980
+  },
+  {
+    "id": "01545",
+    "population": 12231,
+    "population_male": 6113,
+    "population_female": 6118,
+    "households": 5547
+  },
+  {
+    "id": "01429",
+    "population": 12344,
+    "population_male": 5740,
+    "population_female": 6604,
+    "households": 5186
+  },
+  {
+    "id": "01601",
+    "population": 12378,
+    "population_male": 6174,
+    "population_female": 6204,
+    "households": 5781
+  },
+  {
+    "id": "01402",
+    "population": 13042,
+    "population_male": 6174,
+    "population_female": 6868,
+    "households": 6228
+  },
+  {
+    "id": "01607",
+    "population": 13075,
+    "population_male": 6368,
+    "population_female": 6707,
+    "households": 6178
+  },
+  {
+    "id": "01216",
+    "population": 14676,
+    "population_male": 6667,
+    "population_female": 8009,
+    "households": 6862
+  },
+  {
+    "id": "01400",
+    "population": 15018,
+    "population_male": 7538,
+    "population_female": 7480,
+    "households": 6974
+  },
+  {
+    "id": "01691",
+    "population": 15273,
+    "population_male": 7687,
+    "population_female": 7586,
+    "households": 5997
+  },
+  {
+    "id": "01345",
+    "population": 15946,
+    "population_male": 7324,
+    "population_female": 8622,
+    "households": 6628
+  },
+  {
+    "id": "01346",
+    "population": 17252,
+    "population_male": 8401,
+    "population_female": 8851,
+    "households": 7523
+  },
+  {
+    "id": "01303",
+    "population": 17278,
+    "population_male": 8314,
+    "population_female": 8964,
+    "households": 7327
+  },
+  {
+    "id": "01226",
+    "population": 17694,
+    "population_male": 8216,
+    "population_female": 9478,
+    "households": 7858
+  },
+  {
+    "id": "01578",
+    "population": 17740,
+    "population_male": 8489,
+    "population_female": 9251,
+    "households": 7955
+  },
+  {
+    "id": "01637",
+    "population": 18484,
+    "population_male": 8773,
+    "population_female": 9711,
+    "households": 7169
+  },
+  {
+    "id": "01408",
+    "population": 19607,
+    "population_male": 9063,
+    "population_female": 10544,
+    "households": 8769
+  },
+  {
+    "id": "01661",
+    "population": 19833,
+    "population_male": 9373,
+    "population_female": 10460,
+    "households": 8119
+  },
+  {
+    "id": "01220",
+    "population": 19914,
+    "population_male": 9382,
+    "population_female": 10532,
+    "households": 8650
+  },
+  {
+    "id": "01543",
+    "population": 20296,
+    "population_male": 9763,
+    "population_female": 10533,
+    "households": 8626
+  },
+  {
+    "id": "01555",
+    "population": 20873,
+    "population_male": 10081,
+    "population_female": 10792,
+    "households": 9278
+  },
+  {
+    "id": "01228",
+    "population": 21909,
+    "population_male": 10118,
+    "population_female": 11791,
+    "households": 9669
+  },
+  {
+    "id": "01212",
+    "population": 22221,
+    "population_male": 10516,
+    "population_female": 11705,
+    "households": 10402
+  },
+  {
+    "id": "01229",
+    "population": 22936,
+    "population_male": 10783,
+    "population_female": 12153,
+    "households": 9929
+  },
+  {
+    "id": "01215",
+    "population": 23035,
+    "population_male": 10753,
+    "population_female": 12282,
+    "households": 10173
+  },
+  {
+    "id": "01219",
+    "population": 23109,
+    "population_male": 10954,
+    "population_female": 12155,
+    "households": 11127
+  },
+  {
+    "id": "01610",
+    "population": 23231,
+    "population_male": 11188,
+    "population_female": 12043,
+    "households": 10443
+  },
+  {
+    "id": "01692",
+    "population": 23774,
+    "population_male": 11628,
+    "population_female": 12146,
+    "households": 10437
+  },
+  {
+    "id": "01643",
+    "population": 26760,
+    "population_male": 12627,
+    "population_female": 14133,
+    "households": 10944
+  },
+  {
+    "id": "01223",
+    "population": 26917,
+    "population_male": 12862,
+    "population_female": 14055,
+    "households": 11383
+  },
+  {
+    "id": "01337",
+    "population": 28120,
+    "population_male": 12820,
+    "population_female": 15300,
+    "households": 11141
+  },
+  {
+    "id": "01221",
+    "population": 29048,
+    "population_male": 14072,
+    "population_female": 14976,
+    "households": 13086
+  },
+  {
+    "id": "01233",
+    "population": 34995,
+    "population_male": 16279,
+    "population_female": 18716,
+    "households": 15054
+  },
+  {
+    "id": "01214",
+    "population": 36380,
+    "population_male": 17809,
+    "population_female": 18571,
+    "households": 16486
+  },
+  {
+    "id": "01211",
+    "population": 39077,
+    "population_male": 19819,
+    "population_female": 19258,
+    "households": 18035
+  },
+  {
+    "id": "01225",
+    "population": 41192,
+    "population_male": 19475,
+    "population_female": 21717,
+    "households": 18651
+  },
+  {
+    "id": "01631",
+    "population": 44807,
+    "population_male": 21080,
+    "population_female": 23727,
+    "households": 18019
+  },
+  {
+    "id": "01236",
+    "population": 46390,
+    "population_male": 21641,
+    "population_female": 24749,
+    "households": 18508
+  },
+  {
+    "id": "01230",
+    "population": 49625,
+    "population_male": 23533,
+    "population_female": 26092,
+    "households": 21681
+  },
+  {
+    "id": "01235",
+    "population": 57436,
+    "population_male": 27548,
+    "population_female": 29888,
+    "households": 22632
+  },
+  {
+    "id": "01234",
+    "population": 59064,
+    "population_male": 28273,
+    "population_female": 30791,
+    "households": 23551
+  },
+  {
+    "id": "01231",
+    "population": 69702,
+    "population_male": 33781,
+    "population_female": 35921,
+    "households": 28846
+  },
+  {
+    "id": "01210",
+    "population": 84499,
+    "population_male": 39319,
+    "population_female": 45180,
+    "households": 36155
+  },
+  {
+    "id": "01205",
+    "population": 88564,
+    "population_male": 43143,
+    "population_female": 45421,
+    "households": 43616
+  },
+  {
+    "id": "01224",
+    "population": 95648,
+    "population_male": 48588,
+    "population_female": 47060,
+    "households": 40638
+  },
+  {
+    "id": "01110",
+    "population": 115726,
+    "population_male": 54624,
+    "population_female": 61102,
+    "households": 45006
+  },
+  {
+    "id": "01217",
+    "population": 120636,
+    "population_male": 57391,
+    "population_female": 63245,
+    "households": 51983
+  },
+  {
+    "id": "01208",
+    "population": 121226,
+    "population_male": 58020,
+    "population_female": 63206,
+    "households": 56202
+  },
+  {
+    "id": "01203",
+    "population": 121924,
+    "population_male": 54985,
+    "population_female": 66939,
+    "households": 55466
+  },
+  {
+    "id": "01108",
+    "population": 127767,
+    "population_male": 58312,
+    "population_female": 69455,
+    "households": 55585
+  },
+  {
+    "id": "01109",
+    "population": 140999,
+    "population_male": 66284,
+    "population_female": 74715,
+    "households": 57333
+  },
+  {
+    "id": "01106",
+    "population": 141190,
+    "population_male": 65305,
+    "population_female": 75885,
+    "households": 61291
+  },
+  {
+    "id": "01207",
+    "population": 169327,
+    "population_male": 80994,
+    "population_female": 88333,
+    "households": 77707
+  },
+  {
+    "id": "01213",
+    "population": 172737,
+    "population_male": 84605,
+    "population_female": 88132,
+    "households": 78298
+  },
+  {
+    "id": "01206",
+    "population": 174742,
+    "population_male": 82185,
+    "population_female": 92557,
+    "households": 82078
+  },
+  {
+    "id": "01104",
+    "population": 209584,
+    "population_male": 99020,
+    "population_female": 110564,
+    "households": 104608
+  },
+  {
+    "id": "01107",
+    "population": 213578,
+    "population_male": 98648,
+    "population_female": 114930,
+    "households": 97750
+  },
+  {
+    "id": "01105",
+    "population": 218652,
+    "population_male": 101482,
+    "population_female": 117170,
+    "households": 110171
+  },
+  {
+    "id": "01101",
+    "population": 237627,
+    "population_male": 107756,
+    "population_female": 129871,
+    "households": 132006
+  },
+  {
+    "id": "01103",
+    "population": 261912,
+    "population_male": 124649,
+    "population_female": 137263,
+    "households": 124425
+  },
+  {
+    "id": "01202",
+    "population": 265979,
+    "population_male": 120376,
+    "population_female": 145603,
+    "households": 123950
+  },
+  {
+    "id": "01102",
+    "population": 285321,
+    "population_male": 134534,
+    "population_female": 150787,
+    "households": 133662
+  },
+  {
+    "id": "01204",
+    "population": 339605,
+    "population_male": 156402,
+    "population_female": 183203,
+    "households": 155747
+  }
 ]
