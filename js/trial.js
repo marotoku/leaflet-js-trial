@@ -46,4 +46,4 @@ var hokkaido = getJSON("./data/01.json");
 
 var boundary = L.geoJson(hokkaido, {
         style: style
-}).addTo(map);
+}).addTo(mymap);
