@@ -32,12 +32,15 @@ function getColor(pop) {
 }
 
 function style(feature) {
+  var id = feature.geometry.id;
+  var population = stats[id].population;
   return {
-      weight: 2,
-      opacity: 1,
-      color: 'white',
-      dashArray: '3',
-      fillOpacity: 0.7
+    fillColor: getColor(population),
+    weight: 2,
+    opacity: 1,
+    color: 'white',
+    dashArray: '3',
+    fillOpacity: 0.7
   };
 }
 
