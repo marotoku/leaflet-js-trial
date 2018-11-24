@@ -44,8 +44,8 @@ function style(feature, stats) {
   };
 }
 
-var stats = getJSON("./leaflet-js-trial/data/population.json");
-var hokkaido = getJSON("./leaflet-js-trial/data/01.json");
+var stats = getJSON("./data/population.json");
+var hokkaido = getJSON("./data/01.json");
 
 var boundary = L.geoJson(hokkaido, {
         style: style(stats),
