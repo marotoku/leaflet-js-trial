@@ -50,9 +50,41 @@ function style(feature) {
   };
 }
 
+function highlightFeature(e) {
+  var layer = e.target;
+
+  layer.setStyle({
+      weight: 2,
+      color: '#666',
+      dashArray: '',
+      fillOpacity: 0.5
+  });
+
+  if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
+      layer.bringToFront();
+  }
+}
+
+function resetHighlight(e) {
+  boundary.resetStyle(e.target);
+}
+
+function zoomToFeature(e) {
+  map.fitBounds(e.target.getBounds());
+}
+
+function onEachFeature(feature, layer) {
+  layer.on({
+      mouseover: highlightFeature,
+      mouseout: resetHighlight,
+      click: zoomToFeature
+  });
+}
+
 var stats = getJSON("./data/population.json");
 var hokkaido = getJSON("./data/01.json");
 
 var boundary = L.geoJson(hokkaido, {
-        style: style
+        style: style,
+        onEachFeature: onEachFeature
 }).addTo(mymap);
