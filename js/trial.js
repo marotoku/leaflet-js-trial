@@ -7,18 +7,45 @@ L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 mymap.setView([43.0620306, 141.3543755], 7);
 
-function getJSON(jsonFile) {
+function getJSON(url) {
   var req = new XMLHttpRequest();                 // XMLHttpRequest オブジェクトを生成する
   req.onreadystatechange = function() {           // XMLHttpRequest オブジェクトの状態が変化した際に呼び出されるイベントハンドラ
     if(req.readyState == 4 && req.status == 200){ // サーバーからのレスポンスが完了し、かつ、通信が正常に終了した場合
-      return JSON.parse(req.responseText);    // 取得した JSON ファイルの中身を変数へ格納
+      return JSON.parse(req.responseText);
     }
   };
-  req.open("GET", jsonFile, false);          // HTTPメソッドとアクセスするサーバーのURLを指定
-  req.send(null);                            // 実際にサーバーへリクエストを送信
+  req.open("GET", url, false); // HTTPメソッドとアクセスするサーバーのURLを指定
+  req.send(null);              // 実際にサーバーへリクエストを送信
 }
 
-var hokkaido = getJSON("../data/01.json");
+function getColor(pop) {
+  return pop > 100000 ? '#ffffe5' :
+         pop > 23000  ? '#fff7bc' :
+         pop > 14000  ? '#fee391' :
+         pop > 8500   ? '#fec44f' :
+         pop > 6500   ? '#fe9929' :
+         pop > 5000   ? '#ec7014' :
+         pop > 4000   ? '#cc4c02' :
+         pop > 3200   ? '#993404' :
+         pop > 2500   ? '#662506' :
+                        '#331203' ;
+}
+
+function style(feature, stats) {
+  var id = feature['id'];
+  var population = stats[id]['population'];
+  return {
+      fillColor: getColor(population),
+      weight: 2,
+      opacity: 1,
+      color: 'white',
+      dashArray: '3',
+      fillOpacity: 0.7
+  };
+}
+
+var stats = getJSON("/data/population.json");
+var hokkaido = getJSON("/data/01.json");
 
 var boundary = L.geoJson(hokkaido, {
         style: style,
