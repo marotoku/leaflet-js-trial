@@ -32,7 +32,7 @@ function getColor(pop) {
 }
 
 function style(feature, stats) {
-  var id = feature['id'];
+  var id = feature.id;
   var population = stats[id]['population'];
   return {
       fillColor: getColor(population),
