@@ -35,7 +35,11 @@ function getColor(pop) {
 
 function style(feature) {
   var id = feature.id;
-  var population = stats.filter( item => item.id === id )[0].population;
+  var items = stats.filter( item => item.id === id );
+  var population = 0;
+  if (items.length == 1) {
+    population = items[0].population;
+  }
   return {
     fillColor: getColor(population),
     weight: 2,
