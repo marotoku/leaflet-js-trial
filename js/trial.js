@@ -14,7 +14,7 @@ function getJSON(url) {
       return JSON.parse(req.responseText);
     }
   };
-  req.open("GET", url, false); // HTTPメソッドとアクセスするサーバーのURLを指定
+  req.open("GET", url, true); // HTTPメソッドとアクセスするサーバーのURLを指定
   req.send(null);              // 実際にサーバーへリクエストを送信
 }
 
