@@ -1,11 +1,11 @@
 var mymap = L.map('map');
 
-L.tileLayer('https://cyberjapandata.gsi.go.jp/xyz/std/{z}/{x}/{y}.png', {
+L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   maxZoom: 18,
-  attribution: '<a href="https://maps.gsi.go.jp/development/ichiran.html" target="_blank">国土地理院</a>',
+  attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors',
 }).addTo(mymap);
 
-mymap.setView([43.0620306, 141.3543755], 6);
+mymap.setView([43.0620306, 141.3543755], 7);
 
 
 var markerIcon = L.icon({
