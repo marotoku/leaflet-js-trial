@@ -38,7 +38,7 @@ function style(feature) {
     fillColor: getColor(population),
     weight: 2,
     opacity: 1,
-    color: 'white',
+    color: 'black',
     dashArray: '3',
     fillOpacity: 0.7
   };
