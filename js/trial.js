@@ -50,6 +50,7 @@ function styleStats(feature) {
   return style(feature, stats);
 }
 var hokkaido = getJSON("./data/01.json");
+alert(hokkaido[0]);
 
 var boundary = L.geoJson(hokkaido, {
         style: styleStats,
