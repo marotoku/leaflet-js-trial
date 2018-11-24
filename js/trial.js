@@ -31,11 +31,8 @@ function getColor(pop) {
                         '#331203' ;
 }
 
-function style(feature, stats) {
-  var id = feature.geometry.id;
-  var population = stats[id]['population'];
+function style(feature) {
   return {
-      fillColor: getColor(population),
       weight: 2,
       opacity: 1,
       color: 'white',
@@ -45,13 +42,8 @@ function style(feature, stats) {
 }
 
 var stats = getJSON("./data/population.json");
-
-function styleStats(feature) {
-  return style(feature, stats);
-}
 var hokkaido = getJSON("./data/01.json");
-alert(hokkaido[0]);
 
 var boundary = L.geoJson(hokkaido, {
-        style: styleStats,
+        style: style,
 }).addTo(map);
