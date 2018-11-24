@@ -18,7 +18,7 @@ function getJSON(jsonFile) {
   req.send(null);                            // 実際にサーバーへリクエストを送信
 }
 
-var hokkaido = getJson("../data/01.json");
+var hokkaido = getJSON("../data/01.json");
 
 var boundary = L.geoJson(hokkaido, {
         style: style,
