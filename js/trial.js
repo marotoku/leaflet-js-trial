@@ -9,7 +9,7 @@ mymap.setView([43.0620306, 141.3543755], 7);
 
 function getJSON(url) {
   var req = new XMLHttpRequest();                 // XMLHttpRequest オブジェクトを生成する
-  var data = {};
+  var data;
   req.onreadystatechange = function() {           // XMLHttpRequest オブジェクトの状態が変化した際に呼び出されるイベントハンドラ
     if(req.readyState == 4 && req.status == 200){ // サーバーからのレスポンスが完了し、かつ、通信が正常に終了した場合
       data = JSON.parse(req.responseText);
