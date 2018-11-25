@@ -8,15 +8,15 @@ L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 mymap.setView([43.0620306, 141.3543755], 7);
 
 function getJSON(url) {
-  var req = new XMLHttpRequest();                 // XMLHttpRequest オブジェクトを生成する
+  var req = new XMLHttpRequest();
   var data;
-  req.onreadystatechange = function() {           // XMLHttpRequest オブジェクトの状態が変化した際に呼び出されるイベントハンドラ
-    if(req.readyState == 4 && req.status == 200){ // サーバーからのレスポンスが完了し、かつ、通信が正常に終了した場合
+  req.onreadystatechange = function() {
+    if(req.readyState == 4 && req.status == 200){
       data = JSON.parse(req.responseText);
     }
   };
-  req.open("GET", url, false); // HTTPメソッドとアクセスするサーバーのURLを指定
-  req.send(null);              // 実際にサーバーへリクエストを送信
+  req.open("GET", url, false);
+  req.send(null);
   return data;
 }
 
@@ -63,10 +63,13 @@ function highlightFeature(e) {
   if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
       layer.bringToFront();
   }
+
+  info.update(layer.feature.id);
 }
 
 function resetHighlight(e) {
   boundary.resetStyle(e.target);
+  info.update();
 }
 
 function zoomToFeature(e) {
@@ -81,6 +84,39 @@ function onEachFeature(feature, layer) {
   });
 }
 
+function getStatsById(stats, id) {
+  var cityName = "";
+  var population = 0;
+  var populationMale = 0;
+  var populationFemale = 0;
+  var houseHolds = 0;
+
+  var items = stats.filter(item => item.id === id);
+  if (items.length == 1) {
+    cityName = items[0].cityName;
+    population = items[0].population;
+    populationMale = items[0].populationMale;
+    populationFemale = items[0].populationFemale;
+    houseHolds = items[0].houseHolds;
+  }
+
+  return {
+    'cityName': cityName,
+    'population': population,
+    'populationMale': populationMale,
+    'populationFemale': populationFemale,
+    'houseHolds': houseHolds
+  };
+}
+
+function addComma(num) {
+  var _num = num.replace( /^(-?\d+)(\d{3})/, "$1,$2" );
+  if(_num !== num) {
+    return addComma(_num);
+  }
+  return _num;
+}
+
 var stats = getJSON("./data/population.json");
 var hokkaido = getJSON("./data/01.json");
 
@@ -88,3 +124,26 @@ var boundary = L.geoJson(hokkaido, {
         style: style,
         onEachFeature: onEachFeature
 }).addTo(mymap);
+
+var info = L.control();
+
+info.onAdd = function (mymap) {
+    this._div = L.DomUtil.create('div', 'info'); // create a div with a class "info"
+    this.update();
+    return this._div;
+};
+
+// method that we will use to update the control based on feature properties passed
+info.update = function (id) {
+  var data = getStatsById(id);
+  var html = '<h4>国勢調査（H27）人口・世帯数</h4>'
+  html = html + '<h5>' + (id ? data.cityName : 'マウスを合わせてください') + '</h5>'
+  html = html + '<table>'
+  html = html + '<tr><td>人口</td><td>' + (id ? addComma(data.population) : '--') + '</td></tr>'
+  html = html + '<tr><td>男性人口</td><td>' + (id ? addComma(data.populationMale) : '--') + '</td></tr>'
+  html = html + '<tr><td>女性人口</td><td>' + (id ? addComma(data.populationFemale) : '--') + '</td></tr>'
+  html = html + '<tr><td>世帯数</td><td>' + (id ? addComma(data.houseHolds) : '--') + '</td></tr>'
+  html = html + '</table>'
+  this._div.innerHTML = html;
+};
+info.addTo(mymap);

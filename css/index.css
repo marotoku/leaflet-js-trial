@@ -1,3 +1,41 @@
 #map {
   height: 600px;
 }
+
+.info {
+  padding: 6px 8px; 
+  font: Helvetica, Arial, sans-serif;
+  font-size: 10px;
+  background: white; 
+  background: rgba(255,255,255,0.8); 
+  box-shadow: 0 0 15px rgba(0,0,0,0.2); 
+  border-radius: 5px;
+  width: 180px;
+  color: #555;
+} 
+.info h4 { 
+  margin: 0 0 5px; 
+  font-size: 1.2em;
+  text-decoration: underline;
+  text-align: center;
+}
+.info h5 {
+  margin: 0 0 5px;
+  color: #777;
+  font-size: 1.2em;
+  text-align: center;
+}
+
+.info table {
+  width: 90%;
+  text-align: right;
+  font-size: 1.2em; 
+}
+
+.info th {
+  color: #555;
+}
+.info .unit {
+  text-align: left;
+  font-size: 0.9em;
+}
