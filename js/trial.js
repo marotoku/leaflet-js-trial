@@ -151,6 +151,7 @@ legend.onAdd = function (mymap) {
 
   var div = L.DomUtil.create('div', 'info legend'),
     grades = [0, 5000, 10000, 20000, 50000, 100000, 200000],
+    labels = [],
     from, to;
 
   for (var i = 0; i < grades.length; i++) {
