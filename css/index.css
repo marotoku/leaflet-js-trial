@@ -42,9 +42,17 @@
 }
 
 .legend {
+  width: 140px;
   text-align: left;
   line-height: 18px;
   color: #555;
+}
+
+.legend h4 {
+  margin: 0 0 5px;
+  color: #777;
+  text-align: left;
+  font-size: 12px;
 }
 
 .legend i {

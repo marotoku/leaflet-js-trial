@@ -163,7 +163,7 @@ legend.onAdd = function (mymap) {
       from + (to ? '&ndash;' + to : '+'));
   }
     
-  div.innerHTML = labels.join('<br>');
+  div.innerHTML = '<h4>凡例</h4>'+ labels.join('<br>');
   return div;
 };
 
