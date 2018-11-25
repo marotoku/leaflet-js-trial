@@ -89,7 +89,7 @@ function getStatsById(stats, id) {
   var population = 0;
   var populationMale = 0;
   var populationFemale = 0;
-  var houseHolds = 0;
+  var households = 0;
 
   var items = stats.filter(item => item.id === id);
   if (items.length == 1) {
@@ -97,7 +97,7 @@ function getStatsById(stats, id) {
     population = items[0].population;
     populationMale = items[0].populationMale;
     populationFemale = items[0].populationFemale;
-    houseHolds = items[0].houseHolds;
+    households = items[0].households;
   }
 
   return {
@@ -105,7 +105,7 @@ function getStatsById(stats, id) {
     'population': population,
     'populationMale': populationMale,
     'populationFemale': populationFemale,
-    'houseHolds': houseHolds
+    'households': households
   };
 }
 
@@ -142,7 +142,7 @@ info.update = function (id) {
   html = html + "<tr><th scope='row'>人口</th><td>" + (id ? addComma(data.population.toString()) : "--") + "</td><td class='unit'>人</td></tr>"
   html = html + "<tr><th scope='row'>男性人口</th><td>" + (id ? addComma(data.populationMale.toString()) : "--") + "</td><td class='unit'>人</td></tr>"
   html = html + "<tr><th scope='row'>女性人口</th><td>" + (id ? addComma(data.populationFemale.toString()) : "--") + "</td><td class='unit'>人</td></tr>"
-  html = html + "<tr><th scope='row'>世帯数</th><td>" + (id ? addComma(data.houseHolds.toString()) : "--") + "</td><td class='unit'>世帯</td></tr>"
+  html = html + "<tr><th scope='row'>世帯数</th><td>" + (id ? addComma(data.households.toString()) : "--") + "</td><td class='unit'>世帯</td></tr>"
   html = html + "</table>"
   this._div.innerHTML = html;
 };
