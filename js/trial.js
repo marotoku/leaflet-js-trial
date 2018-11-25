@@ -21,16 +21,13 @@ function getJSON(url) {
 }
 
 function getColor(pop) {
-  return pop > 100000 ? '#ffffe5' :
-         pop > 23000  ? '#f7fcb9' :
-         pop > 14000  ? '#d9f0a3' :
-         pop > 8500   ? '#addd8e' :
-         pop > 6500   ? '#78c679' :
-         pop > 5000   ? '#41ab5d' :
-         pop > 4000   ? '#238443' :
-         pop > 3200   ? '#006837' :
-         pop > 2500   ? '#004529' :
-                        '#002213' ;
+  return pop > 200000 ? '#005a32' :
+         pop > 100000  ? '#238443' :
+         pop > 50000  ? '#41ab5d' :
+         pop > 20000   ? '#78c679' :
+         pop > 10000   ? '#addd8e' :
+         pop > 5000   ? '#d9f0a3' :
+                        '#ffffcc' ;
 }
 
 function style(feature) {
