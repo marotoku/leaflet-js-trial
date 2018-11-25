@@ -137,12 +137,12 @@ info.onAdd = function (mymap) {
 info.update = function (id) {
   var data = getStatsById(stats, id);
   var html = "<h4>国勢調査（H27）人口・世帯数</h4>"
-  html = html + "<h5>" + (id ? data.cityName : "マウスを合わせてください") + "</h5>"
+  html = html + "<h5>" + (id ? data.cityName : "マウスカーソルを合わせてください") + "</h5>"
   html = html + "<table>"
-  html = html + "<tr><th scope='row'>人口</th><td>" + (id ? addComma(data.population) : "--") + "</td><td class='unit'>人</td></tr>"
-  html = html + "<tr><th scope='row'>男性人口</th><td>" + (id ? addComma(data.populationMale) : "--") + "</td><td class='unit'>人</td></tr>"
-  html = html + "<tr><th scope='row'>女性人口</th><td>" + (id ? addComma(data.populationFemale) : "--") + "</td><td class='unit'>人</td></tr>"
-  html = html + "<tr><th scope='row'>世帯数</th><td>" + (id ? addComma(data.houseHolds) : "--") + "</td><td class='unit'>世帯</td></tr>"
+  html = html + "<tr><th scope='row'>人口</th><td>" + (id ? addComma(data.population.toString()) : "--") + "</td><td class='unit'>人</td></tr>"
+  html = html + "<tr><th scope='row'>男性人口</th><td>" + (id ? addComma(data.populationMale.toString()) : "--") + "</td><td class='unit'>人</td></tr>"
+  html = html + "<tr><th scope='row'>女性人口</th><td>" + (id ? addComma(data.populationFemale.toString()) : "--") + "</td><td class='unit'>人</td></tr>"
+  html = html + "<tr><th scope='row'>世帯数</th><td>" + (id ? addComma(data.houseHolds.toString()) : "--") + "</td><td class='unit'>世帯</td></tr>"
   html = html + "</table>"
   this._div.innerHTML = html;
 };
